@@ -17,18 +17,33 @@ h3 {
     text-align: center;
 }
 
+.messagecontainer{
+	width: 100%;
+	max-width: 750px;
+	margin-left: auto; margin-right: auto;
+	/*border: 1px solid black;*/
+}
+
 #chatbox {
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
-    margin-top: 60px;
+    /*width: 40%;*/
+    margin-top: 10px;
+}
+
+#typing {
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 40%;*/
+    margin-top: 10px;
+	visibility: hidden;
 }
 
 #userInput {
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
-    margin-top: 60px;
+    /*width: 40%;*/
+    margin-top: 10px;
 }
 
 #textInput {
@@ -50,27 +65,33 @@ h3 {
     font-family: monospace;
     font-size: 17px;
     text-align: right;
-    line-height: 30px;
+    line-height: 20px;
 }
 
 .userText span {
     background-color: #009688;
     padding: 10px;
-    border-radius: 2px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
 }
 
 .botText {
-    color: white;
+    background-color: #F2B100;
+    color: black;
     font-family: monospace;
     font-size: 17px;
     text-align: left;
     line-height: 30px;
+	-webkit-border-radius: 10px;
+    border-radius: 10px;
+	padding: 5px;
+	min-height: 68px;
 }
 
 .botText span {
-    background-color: #EF5350;
     padding: 10px;
-    border-radius: 2px;
+	margin-left: 0px;
+	position: relative; top:4px;
 }
 
 #tidbit {
