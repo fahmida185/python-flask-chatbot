@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-chatbot-training-tool",
+  "private_key_id": "1a26235c6f9de804bfdb2ebe82126d036a8abf5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8x+dMlITnUxXT\nVyLPml8eNSxqCUt/u/wqYTNxlrdnuHfHjNOTNcTtZIKLgJJ24Bs0409Vfz75mHuD\nlskAV0xEfu65WPFpFM1gPGAs+GJ2sUA7PNPxVX1T3SIGx/9IHQb7NfhiUS44qkTT\n0G8wiWzqMOq8B46Gw9wiABUUkOhG7APQBQkVrPn7afk5zlbRp0dAuwLDxtjDyLDv\ntLNSxFZcjg6Luj6SMdoXu7VznIbZ8QT0EJ93mMEsODTKfhwJR4L/UXRJ6BIoL00n\niRaW5XxuLZsTgZ3/StQMbgfR1EThgtGjCLbG8+qqfWpselMi4mmSANWKBfSJdSa1\nkcLnp25lAgMBAAECggEAAfVhTa7WcHpGRhvyZpd6KFDSaLjhzDiJzZxrtssNajl5\nyqZIH/qalADrMXclwy8g28wGQRjnG8VMdhQcz+YCn/eg0pJHkjjERweRUt4dKBCU\n3e3MCsYBh8V0n9U4LYoZjgZ5u3a5T/QE70f2DgRFpD9aLBW4UZHGHqHZa3jJDsqe\n9n5ZiSejBnYSb+kPz3NnF7oa2cbCca3ESNfOBUNA3Ch+xOqsaSPRK/KDHqF/JxMg\np3rnMuSWxvgYoD/LpyuvauOnW42AXASxrETlBy8bBenXvdW7F4WGO5GW3qmtXjbM\nC97s8hybmuyHh6xvpVisJw1nV5nDTJ7vUZpB6bChQQKBgQDyds3JZ+kRg+fnnzP/\nzjOzGYPn5PvjEWFJE0LUvIq4D8zRVcAHcbUOldZc7ln5LBUVev/5vtnDQEanAQR7\nk8Kn5HnAZMTcK4LFFaUWfE1UQGNbfBPjLn6kJdiaJ2rQXQW2kg9bPruEeZma1/6V\ncVmtQMCF/WCRPUN2p+3J2YvSQQKBgQDHUeGsnaq9OYDKCn3Ua5J/3dh51B1dg2Ku\ngsTROfgvCoLT0cBcCHYmvppMs1bnc5TwR5AX+ibQp69QWPUhNYpoXV12IZ8eMj6k\nYqDGP2FDsFXAk2Q4CbO2QDLt/ou04Uz4bSMYLy9wIBWPTrcML1vuNx/4UkcbrX+O\nJxbmF5lLJQKBgGscwNxw4y2xsAlK85XWalB8vSD8r6ooS2oU8Dk68a1OjZUM5MBl\nIy9GUmTLh0PkjYvnwp16ComPI6czc9+D70JsVL0Bx1XcgvC+FyhP0Xme2EXaEo8S\nQzAQ6BdxwmY6MgPtkosks4JaldkqAnXSlWNMb8DBpp+DCQKqPQom6PYBAoGBAJ0K\nC2dIFgTecHU/DOK3Goa6EFv0XmqWIMLj7xP1u2+8tVUUdp1MYWKnW8TAq+DRtPAX\nQhVSFxDgfQUuAXx3xaPyo7d2R/qvlaFIv+lSeFyvavC+cACizD/0luviWMpblJxK\nyJK+Yn7SGIp/d0MXcTPfpMWuda395XjnnWgOAc4tAoGBAIPQwJc2SVpoakTBxN+n\n7ttUv3jwKmHlhQTzzDfUhS3l2IQaTKuqfLnn3CN4S56NfoMOOhp/PIvE2EtCtSu0\n3BYX4PBu0ovUCdbMAqnAKJIT9wsKYi6qDuf6GcRVsyx1f7n+Kmf2bQ/aaFVbWUCv\nQm0rqm2r6cWPFDHvT0+CjtYr\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-chatbot-training@python-chatbot-training-tool.iam.gserviceaccount.com",
+  "client_id": "109730214400933918033",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-chatbot-training%40python-chatbot-training-tool.iam.gserviceaccount.com"
+}
