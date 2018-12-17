@@ -37,7 +37,7 @@ with open('data/trainingdata.yml', 'w') as f:
 print("I have successfully imported " + str(len(all_cells)) + " rows of data and will now retrain...")
 
 bot = ChatBot(
-    "Sherlock Holmes",
+    "Chatbot",
     logic_adapters=[
         {
             'import_path': 'chatterbot.logic.BestMatch'
@@ -52,7 +52,7 @@ bot = ChatBot(
     input_adapter="chatterbot.input.VariableInputTypeAdapter",
     output_adapter="chatterbot.output.OutputAdapter",
     storage_adapter="chatterbot.storage.SQLStorageAdapter",
-    database="sherlockholmes.sqlite3"
+    database="botdata.sqlite3"
 )
 
 bot.read_only=True #Comment this out if you want the bot to learn based on experience
